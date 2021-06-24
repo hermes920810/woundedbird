@@ -132,7 +132,7 @@
                                             <li><a href="{{ route('portfolios') }}">Portfolios</a></li>
                                             <li><a href="{{ route('gallery') }}">Gallery</a></li> 
                                         </ul>
-                                    </li> 
+                                    </li>
                                     <li class="{{ Request::is('team-member') ? 'active': '' }}"><a href="{{ route('team_member') }}">Team</a></li>
                                     <li class="{{ Request::is('contact-us') ? 'active': '' }}"><a href="{{ route('contact_us') }}">Contact us</a></li>
                                     <li><a href="#"><span class="donate-tdy">Donate Today!</span></a></li>
