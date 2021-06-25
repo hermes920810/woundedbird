@@ -966,7 +966,7 @@ h2.section-title-black {
 10. Charity-shop-area
 =======================*/
 .charity-shop-area {
-  background: rgba(0, 0, 0, 0) url("img/child-img/bkg_shop.jpg") repeat fixed center top;
+  background: rgba(0, 0, 0, 0) url("img/charity-shop-back-1190-1219.jpg") repeat fixed center top;
   padding: 75px 0 72px;
 }
 .csa-mt{
@@ -1626,7 +1626,7 @@ ul.mdl-tab li {
 16. Testimonial-area
 =======================*/
 .testimonial-area {
-  background: rgba(0, 0, 0, 0) url("img/child-img/bkg_testimonial.jpg") repeat fixed center top;
+  background: rgba(0, 0, 0, 0) url("img/testimonial/testimonial-back.jpg") repeat fixed center top;
   padding: 112px 0 86px;
 }
 .testimonial-mt{

@@ -118,7 +118,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="who-are-we-txt">
                     <h2 class="section-title-black"><strong>Who are we?</strong></h2>
-                    <p>Storytelling vaccine; John Lennon, participatory monitoring crowdsourcing, visionary improving quality, transformative <br>  positive social change. Human experience catalyst, healthcare technology.</p>
+                    <p>We are Wounded Bird Human Health Services. We Establish Sustainable Burn and Wound Care Facilities and Services for underserved Populations Worldwide.</p>
                 </div>
             </div>
         </div>
@@ -140,7 +140,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="single-cause-list">
                     <div class="single-cause-img img-hvr-effect">
-                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/pr1.jpg') }}"><img src="{{ asset('img/child-img/x010.jpg') }}" alt="image alt"/></a>
+                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/pr1.jpg') }}"><img src="{{ asset('img/logo.png') }}" alt="image alt"/></a>
                     </div>
                     <div class="cause-lists-desc">
                         <div class="cause-prgrs-br">
@@ -160,7 +160,7 @@
                         </div>
                         <div class="cause-list-desig text-center">
                             <div class="cause-desig-title">
-                                <h3><a href="#">Stop Syria’s Hunger</a></h3>
+                                <h3><a href="#">Domestic Projects</a></h3>
                             </div>
                             <div class="cause-desig-title-desc">
                                 <p>Necessities local solutions cause, hack; human rights treatment Action Against Hunger generosity UNICEF change movements</p>
@@ -175,7 +175,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="single-cause-list">
                     <div class="single-cause-img img-hvr-effect">
-                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/pr2.jpg') }}"><img src="{{ asset('img/child-img/x004.jpg') }}" alt="image alt"/></a>
+                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/pr2.jpg') }}"><img src="{{ asset('img/logo.png') }}" alt="image alt"/></a>
                     </div>
                     <div class="cause-lists-desc">
                         <div class="cause-prgrs-br">
@@ -195,7 +195,7 @@
                         </div>
                         <div class="cause-list-desig text-center">
                             <div class="cause-desig-title">
-                                <h3><a href="#">Help 100 children their</a></h3>
+                                <h3><a href="#">International Efforts</a></h3>
                             </div>
                             <div class="cause-desig-title-desc">
                                 <p>Necessities local solutions cause, hack; human rights treatment Action Against Hunger generosity UNICEF change movements</p>
@@ -210,7 +210,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="single-cause-list">
                     <div class="single-cause-img img-hvr-effect">
-                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/pr3.jpg') }}"><img src="{{ asset('img/logo.png') }}" alt="image alt"/></a>
+                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/pr3.jpg') }}"><img src="{{ asset('img/logo.png') }}" alt="image alt"/></a>
                     </div>
                     <div class="cause-lists-desc">
                         <div class="cause-prgrs-br">
@@ -230,7 +230,7 @@
                         </div>
                         <div class="cause-list-desig text-center">
                             <div class="cause-desig-title">
-                                <h3><a href="#">Save Africa’s Children</a></h3>
+                                <h3><a href="#">Community Involvement</a></h3>
                             </div>
                             <div class="cause-desig-title-desc">
                                 <p>Necessities local solutions cause, hack; human rights treatment Action Against Hunger generosity UNICEF change movements</p>
@@ -300,7 +300,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/x39-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product1-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label">New</span>
                             </div>
@@ -316,7 +316,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Fusce aliquam variable – v1</a></h3>
+                            <h3><a href="#">Med-kit (Small)</a></h3>
                             <div class="product-rating">
                                 <a href="#"><i class="fa fa-star"></i></a>
                                 <a href="#"><i class="fa fa-star"></i></a>
@@ -335,7 +335,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/h04-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product2-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label blue_label">16%</span>
                             </div>
@@ -353,7 +353,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Fusce aliquam variable – v1</a></h3>
+                            <h3><a href="#">Med-kit (Medium)</a></h3>
                             <span class="product-price pro-mb">
                                 <span class="amount-one amnt-one">$50.00</span>
                                 <span class="amount-two amnt-two">$42.00</span>
@@ -364,7 +364,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/h07-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product3-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label blue_label">4%</span>
                             </div>
@@ -382,7 +382,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Navy blue center part leather</a></h3>
+                            <h3><a href="#">Med-kit (Large)</a></h3>
                             <span class="product-price pro-mb">
                                 <span class="amount-one amnt-one">$230.00</span>
                                 <span class="amount-two amnt-two">$220.00</span>
@@ -393,7 +393,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/9-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product4-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label">New</span>
                             </div>
@@ -409,7 +409,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Sander vasari white shirt – v1</a></h3>
+                            <h3><a href="#">Med-kit (Deluxe)</a></h3>
                             <span class="product-price pro-mb">
                                 <span class="amount-one">$17.99</span>
                                 -
@@ -421,7 +421,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/6-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product1-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label blue_label">20%</span>
                             </div>
@@ -439,7 +439,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Floral gold collar chunky</a></h3>
+                            <h3><a href="#">Med-kit (Small)</a></h3>
                             <span class="product-price pro-mb">
                                 <span class="amount-one amnt-one">$100.00</span>
                                 <span class="amount-two amnt-two">$80.00</span>
@@ -450,7 +450,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/h11-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product2-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label">New</span>
                             </div>
@@ -466,7 +466,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Jil sander vasari white shirt – G1</a></h3>
+                            <h3><a href="#">Med-kit (Medium)</a></h3>
                             <span class="product-price pro-mb">
                                 <span class="amount-one">$80.50</span>
                                 -
@@ -478,7 +478,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/h12-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product3-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label">New</span>
                             </div>
@@ -494,7 +494,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Navy blue center part leather – V1</a></h3>
+                            <h3><a href="#">Med-kit (Large)</a></h3>
                             <span class="product-price pro-mb">
                                 <span class="amount-one">$250.00</span>
                                 -
@@ -506,7 +506,7 @@
                 <div class="col-lg-12">
                     <div class="single-product">
                         <div class="product-img">
-                            <a href="#"><img src="{{ asset('img/products/h13-270x400.jpg') }}" alt=""></a>
+                            <a href="#"><img src="{{ asset('img/webshop/webshop-product4-270-400.jpg') }}" alt=""></a>
                             <div class="pro-label">
                                 <span class="product_label">New</span>
                             </div>
@@ -524,7 +524,7 @@
                             </div>
                         </div>
                         <div class="product-desc text-center">
-                            <h3><a href="#">Fusce aliquam variable – v1</a></h3>
+                            <h3><a href="#">Med-kit (Deluxe)</a></h3>
                             <div class="product-rating">
                                 <a href="#"><i class="fa fa-star"></i></a>
                                 <a href="#"><i class="fa fa-star"></i></a>
@@ -716,7 +716,7 @@
 <section class="child-banner-area">
     <div class="single-child-banner">
         <div class="single-child-bnr-img">
-            <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x21-480x357.jpg') }}"><img src="{{ asset('img/child-img/x21-480x357.jpg') }}" alt="image alt"/></a>
+            <a class="venobox" data-gall="myGallery" href="{{ asset('img/showcase/showcase1.jpg') }}"><img src="{{ asset('img/showcase/showcase1.jpg') }}" alt="image alt"/></a>
         </div>
         <div class="single-child-bnr-descs">
             <h2><a href="#">Braid slipper dress dungaree</a></h2>
@@ -725,7 +725,7 @@
     </div>
     <div class="single-child-banner">
         <div class="single-child-bnr-img">
-            <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x2-480x357.jpg') }}"><img src="{{ asset('img/child-img/x2-480x357.jpg') }}" alt="image alt"/></a>
+            <a class="venobox" data-gall="myGallery" href="{{ asset('img/showcase/showcase2.jpg') }}"><img src="{{ asset('img/showcase/showcase2.jpg') }}" alt="image alt"/></a>
         </div>
         <div class="single-child-bnr-descs">
             <h2><a href="#">NTeger scelerisque vel congue</a></h2>
@@ -734,7 +734,7 @@
     </div>
     <div class="single-child-banner">
         <div class="single-child-bnr-img">
-            <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x3-480x357.jpg') }}"><img src="{{ asset('img/child-img/x3-480x357.jpg') }}" alt="image alt"/></a>
+            <a class="venobox" data-gall="myGallery" href="{{ asset('img/showcase/showcase3.jpg') }}"><img src="{{ asset('img/showcase/showcase3.jpg') }}" alt="image alt"/></a>
         </div>
         <div class="single-child-bnr-descs">
             <h2><a href="#">Braid slipper dress dungaree </a></h2>
@@ -743,7 +743,7 @@
     </div>
     <div class="single-child-banner">
         <div class="single-child-bnr-img">
-            <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x15-480x357.jpg') }}"><img src="{{ asset('img/child-img/x15-480x357.jpg') }}" alt="image alt"/></a>
+            <a class="venobox" data-gall="myGallery" href="{{ asset('img/showcase/showcase4.jpg') }}"><img src="{{ asset('img/showcase/showcase4.jpg') }}" alt="image alt"/></a>
         </div>
         <div class="single-child-bnr-descs">
             <h2><a href="#">Givenchy knot ponytail razor</a></h2>
@@ -752,7 +752,7 @@
     </div>
     <div class="single-child-banner">
         <div class="single-child-bnr-img">
-            <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x17-480x357.jpg') }}"><img src="{{ asset('img/child-img/x17-480x357.jpg') }}" alt="image alt"/></a>
+            <a class="venobox" data-gall="myGallery" href="{{ asset('img/showcase/showcase5.jpg') }}"><img src="{{ asset('img/showcase/showcase5.jpg') }}" alt="image alt"/></a>
         </div>
         <div class="single-child-bnr-descs">
             <h2><a href="#">Givenchy knot ponytail razor</a></h2>
@@ -761,7 +761,7 @@
     </div>
     <div class="single-child-banner">
         <div class="single-child-bnr-img">
-            <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x8-480x357.jpg') }}"><img src="{{ asset('img/child-img/x8-480x357.jpg') }}" alt="image alt"/></a>
+            <a class="venobox" data-gall="myGallery" href="{{ asset('img/showcase/showcase6.jpg') }}"><img src="{{ asset('img/showcase/showcase6.jpg') }}" alt="image alt"/></a>
         </div>
         <div class="single-child-bnr-descs">
             <h2><a href="#">NTeger Scelerisque Vel congue</a></h2>
@@ -813,7 +813,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="single-recent-news">
                     <div class="recent-news-img img-hvr-effect">
-                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x23-420x300.jpg') }}"><img src="{{ asset('img/child-img/x23-420x300.jpg') }}" alt="image alt"/></a>
+                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/recent-news/recent-news1.jpg') }}"><img src="{{ asset('img/recent-news/recent-news1.jpg') }}" alt="image alt"/></a>
                         <div class="extra-date">
                             <span class="wd-date">22</span>
                             <span class="wd-month">August</span>
@@ -837,7 +837,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="single-recent-news">
                     <div class="recent-news-img img-hvr-effect">
-                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x21-420x300.jpg') }}"><img src="{{ asset('img/child-img/x21-420x300.jpg') }}" alt="image alt"/></a>
+                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/recent-news/recent-news2.jpg') }}"><img src="{{ asset('img/recent-news/recent-news2.jpg') }}" alt="image alt"/></a>
                         <div class="extra-date">
                             <span class="wd-date">22</span>
                             <span class="wd-month">August</span>
@@ -861,7 +861,7 @@
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
                 <div class="single-recent-news">
                     <div class="recent-news-img img-hvr-effect">
-                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/child-img/x18-420x300.jpg') }}"><img src="{{ asset('img/child-img/x18-420x300.jpg') }}" alt="image alt"/></a>
+                        <a class="venobox" data-gall="myGallery" href="{{ asset('img/recent-news/recent-news3.jpg') }}"><img src="{{ asset('img/recent-news/recent-news3.jpg') }}" alt="image alt"/></a>
                         <div class="extra-date">
                             <span class="wd-date">22</span>
                             <span class="wd-month">August</span>
@@ -901,7 +901,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="testimonial-img">
-                                    <a href="#"><img src="{{ asset('img/testimonial/member1-129x129.jpg') }}" alt=""></a>
+                                    <a href="#"><img src="{{ asset('img/testimonial/testimonial1.png') }}" alt=""></a>
                                 </div>
                                 <div class="testimonial-desc">
                                     <h4>Dr Giao</h4>
@@ -918,7 +918,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="testimonial-img">
-                                    <a href="#"><img src="{{ asset('img/testimonial/member2-129x129.jpg') }}" alt=""></a>
+                                    <a href="#"><img src="{{ asset('img/testimonial/testimonial2.png') }}" alt=""></a>
                                 </div>
                                 <div class="testimonial-desc">
                                     <h4>Dr Hung</h4>
@@ -939,7 +939,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="testimonial-img">
-                                    <a href="#"><img src="{{ asset('img/testimonial/member2-129x129.jpg') }}" alt=""></a>
+                                    <a href="#"><img src="{{ asset('img/testimonial/testimonial3.png') }}" alt=""></a>
                                 </div>
                                 <div class="testimonial-desc">
                                     <h4>Dr Hung</h4>
@@ -956,7 +956,7 @@
                         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="testimonial-img">
-                                    <a href="#"><img src="{{ asset('img/testimonial/member3-129x129.jpg') }}" alt=""></a>
+                                    <a href="#"><img src="{{ asset('img/testimonial/testimonial4.png') }}" alt=""></a>
                                 </div>
                                 <div class="testimonial-desc">
                                     <h4>Mr. Duy</h4>
@@ -977,7 +977,7 @@
                         <div class="col-lg-6 col-md-6 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="testimonial-img">
-                                    <a href="#"><img src="{{ asset('img/testimonial/member3-129x129.jpg') }}" alt=""></a>
+                                    <a href="#"><img src="{{ asset('img/testimonial/testimonial5.png') }}" alt=""></a>
                                 </div>
                                 <div class="testimonial-desc">
                                     <h4>Mr. Duy</h4>
@@ -995,7 +995,7 @@
                         <div class="col-lg-6 col-md-6 col-xs-12">
                             <div class="single-testimonial">
                                 <div class="testimonial-img">
-                                    <a href="#"><img src="{{ asset('img/testimonial/member1-129x129.jpg') }}" alt=""></a>
+                                    <a href="#"><img src="{{ asset('img/testimonial/testimonial6.png') }}" alt=""></a>
                                 </div>
                                 <div class="testimonial-desc">
                                     <h4>Dr Giao</h4>
@@ -1035,7 +1035,7 @@
                             </div>
                             <div class="my-adrs-ic">
                                 <h3>Address</h3>
-                                <p>123 Kingsland Rd. Bighouse London</p>
+                                <p>Wounded Bird Human Health Services<br/>#123 Prosperity Blvd<br/>Suite A<br/>Las Vegas, Nevada. 89100</p>
                             </div>
                         </li>
                         <li>
@@ -1044,7 +1044,7 @@
                             </div>
                             <div class="my-adrs-ic">
                                 <h3>Phone Number</h3>
-                                <p>+8801681715926</p>
+                                <p>702 468 0087</p>
                             </div>
                         </li>
                         <li>
@@ -1053,7 +1053,7 @@
                             </div>
                             <div class="my-adrs-ic">
                                 <h3>Email</h3>
-                                <p>admin@bootexperts.com</p>
+                                <p>info@woundedbird.org</p>
                             </div>
                         </li>
                     </ul>

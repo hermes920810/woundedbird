@@ -99,11 +99,11 @@
                             <div class="contacts-supports">
                                 <span class="spprt-phone">
                                     <i class="fa fa-phone"></i>
-                                    01973833508
+                                    702 468 0087
                                 </span>
                                 <span class="support-email">
                                     <i class="fa fa-envelope"></i>
-                                    admin@bootexperts.com
+                                    info@woundedbird.org
                                 </span>
                             </div>
                         </div>
@@ -178,7 +178,7 @@
                     <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
                         <div class="copyryt-txt">
                             Copyright ©
-                            <a href="http://bootexperts.com">BootExperts.com</a> . All Rights Reserved
+                            <a href="javascript:;">WoundedBird.com</a> . All Rights Reserved
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
@@ -198,7 +198,10 @@
         </div>
     </footer>
     <!-- footer-area end -->
-
+    <script type="text/javascript">
+        var left_button = "{{ asset('img/indicator/left_button.png') }}";
+        var right_button = "{{ asset('img/indicator/right_button.png') }}";
+    </script>
     <!-- all js here -->
     <!-- jquery latest version -->
     <script src="{{ asset('js/vendor/jquery-1.12.0.min.js') }}"></script>

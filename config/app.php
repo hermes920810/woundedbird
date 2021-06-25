@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/woundedbird/public'),
+    'url' => env('APP_URL', 'http://localhost/woundedbird(hermes)/public'),
 
-    'asset_url' => env('ASSET_URL', 'http://localhost/woundedbird/public'),
+    'asset_url' => env('ASSET_URL', 'http://localhost/woundedbird(hermes)/public'),
 
     /*
     |--------------------------------------------------------------------------

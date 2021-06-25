@@ -36,7 +36,7 @@
 	  navigation:true,	  
       items : 4,
 	  /* transitionStyle : "fade", */    /* [This code for animation ] */
-	  navigationText:['<img src="img/indicator/left_button.png" alt="">','<img src="img/indicator/right_button.png" alt="">'],
+	  navigationText:['<img src="'+left_button+'" alt="">','<img src="'+right_button+'" alt="">'],
       itemsDesktop : [1199,4],
 	  itemsDesktopSmall : [980,3],
 	  itemsTablet: [768,2],
@@ -99,7 +99,7 @@
 	  navigation:true,	  
       items : 1,
 	  /* transitionStyle : "fade", */    /* [This code for animation ] */
-	  navigationText:['<img src="img/indicator/left_button.png" alt="">','<img src="img/indicator/right_button.png" alt="">'],
+	  navigationText:['<img src="'+left_button+'" alt="">','<img src="'+right_button+'" alt="">'],
 	  singleItem:true
   });
 /*----------------------------
